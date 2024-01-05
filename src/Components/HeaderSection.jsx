@@ -2,7 +2,6 @@ import tom from '../assets/tom.png'
 export default function Header() {
   return (
     <>
-
     <div className="headerSectionContainer">
         <div className='headerSection'> 
             <img className='tomImage' src={tom} alt='Tom' />
