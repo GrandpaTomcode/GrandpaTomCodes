@@ -3,7 +3,7 @@ export default function NavBar() {
     <>
       <div className="NavBarContainer">
         <h1 className="NavBarTitle">
-          GrandpaTom<span className="accentColor">Codes</span>
+          grandpaTom<span className="accentColor">Codes</span>
         </h1>
         <svg
           xmlns="http://www.w3.org/2000/svg"
